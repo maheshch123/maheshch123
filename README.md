@@ -1,8 +1,9 @@
+### Hi there 👋
 
-### Backend Developer
 Mahesh | Hyderabad
 
-### Hi there 👋
+### Backend Developer
+
 A **backend developer** with 3+ years of experience with Python and Django
 
 Have also been involved in personal research on Computer vision, WordPress, Search Engine Optimization(SEO)
