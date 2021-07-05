@@ -17,6 +17,7 @@ Have also been involved in personal research on Computer vision, WordPress, Sear
 **Backend:**
  * Python
  * Django framework
+ * Flask framework
  
 **Database:** 
   * Mysql
