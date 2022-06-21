@@ -52,6 +52,7 @@ Have also been involved in personal research on Computer vision, WordPress, Sear
  
 <img src="https://camo.githubusercontent.com/37a9a45b13ec27b46a8b38386b030a1715abee3f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d617232312e737667" width="120" height="100">
  
+ <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="120" height="100">
  
  </p> <br>
 
