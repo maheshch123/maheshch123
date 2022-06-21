@@ -23,7 +23,8 @@ Have also been involved in personal research on Computer vision, WordPress, Sear
   * Mysql
   
  **Testing:** 
- * Automation : selenium with python , pytest framework
+ * Automation : selenium with python 
+ *              pytest framework
  
  
 # I have been working on
