@@ -4,8 +4,6 @@ Mahesh | Hyderabad
 
 ### Backend Developer + Test Automation Engineer
 
-A **backend developer** with 4+ years of experience with Python and Django
-
 Have also been involved in personal research on Computer vision, WordPress, Search Engine Optimization(SEO)
 
 # Key skills
@@ -23,7 +21,7 @@ Have also been involved in personal research on Computer vision, WordPress, Sear
   * Mysql
   
  **Testing:** 
- * Automation : selenium with python, pytest framework
+ * Automation : selenium with python, pytest framework, katalon studio
  
  
 # I have been working on
