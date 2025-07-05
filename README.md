@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mahesh | Hyderabad
+Mahesh | Bangalore
 
 ### Backend Developer + Test Automation Engineer
 
